@@ -55,7 +55,7 @@ The project implements efficient data streaming to handle large datasets:
    ```
    Or for development:
    ```bash
-   pnpm dev
+   pnpm watch
    ```
 
 The program will process the `kepler_data.csv` file and output the names of potentially habitable planets along with the total count.
